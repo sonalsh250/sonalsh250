@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sonalsh250.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning web development and game development.
-- 💞️ I’m looking to collaborate on game development projects.
+- 💞️ I’m looking to collaborate on game development and web development projects.
 - 📫 How to reach me- sonalsh250@gmail.com
 
 <!---
