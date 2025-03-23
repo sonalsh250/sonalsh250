@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalsh250&label=Profile%20views&color=0e75b6&style=flat" alt="sonalsh250" /> </p>
 
-- 🔭 I’m currently working on **.net project**
+- 🔭 I’m currently building **.PeerNet** - a social media website for college students to connect with their peers and alumini.
 
 - 🌱 I’m currently learning **.net core**
 
