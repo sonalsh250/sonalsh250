@@ -1,19 +1,63 @@
 [![MasterHead](https://raw.githubusercontent.com/Ajay7304/Ajay7304/master/banner-git.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sonal Kumari</h1>
-<h3 align="center">A passionate website developer from India</h3>
+<!-- <h1 align="center">Hi 👋, I'm Sonal Kumari</h1>
+<h3 align="center">A passionate website developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalsh250&label=Profile%20views&color=0e75b6&style=flat" alt="sonalsh250" /> </p>
 
-- 🔭 I’m currently building **.PeerNet** - a social media website for college students to connect with their peers and alumini.
+## 🚀 The ML Guppie Journey
+A Software Engineer at **Ivanti**, publicly navigating the vast ocean of **Machine Learning & AI** through small, practical projects. Documenting the transition from **.NET backend development** to **ML engineering**.
 
-- 🌱 I’m currently learning **.net core**
+---
 
-- 💬 Ask me about **.net and game development**
+## 🏢 Current Work
+**Software Engineer @ Ivanti**  
+Working on DEX Scoring systems with Python, C#, Docker, and Azure services.  
+Building enterprise applications while learning ML/AI on the side.
 
-- 📫 How to reach me **sonalsh250@gmail.com**
+---
 
-- ⚡ Fun fact **I absolutely love playing badminton.**
+## 🐟 The ML Guppie Projects
+I'm learning ML **publicly** through weekly tiny projects:
+
+📂 **Main Project Hub:** [ml-guppie](https://github.com/sonalsh250/ml-guppie)  
+*(New projects added every week!)*
+
+**Current Focus:**
+- Building foundational ML skills (NumPy, Pandas, Scikit-learn)
+- Creating fun, small ML projects (beginner-friendly)
+- Documenting the complete learning process
+
+---
+
+## 📚 Currently Learning
+- **ML Foundations** (NumPy, Pandas, Matplotlib, Scikit-learn)
+- **Core Algorithms** (Linear/Logistic Regression, Decision Trees, etc.)
+- **ML Engineering** (Docker, MLOps basics)
+- **.NET Core** (for professional work)
+
+---
+
+## 🛠️ Tech Stack
+**Backend:** .NET Core, C#, Python, Docker, Azure Services  
+**ML/AI:** Python, NumPy, Pandas, Scikit-learn (learning)  
+**Databases:** SQL Server, PostgreSQL  
+**Tools:** Git, Azure DevOps, VS Code, Postman  
+
+---
+
+## 🎯 Goals for 2026
+1. Complete 52 small ML projects (one per week)
+2. Build a strong ML portfolio for career transition
+3. Document the entire journey to help others
+4. Contribute to open-source ML projects
+
+---
+
+## 🎨 Beyond Code
+- 🏸 **Badminton Enthusiast** - Love playing competitively
+- 🎵 **Music** - 10 years of classical singing, now learning guitar
+- 📝 **Content Creation** - Documenting my ML journey as [The ML Guppie](https://github.com/sonalsh250/ml-guppie)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
