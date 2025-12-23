@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonalsh250&label=Profile%20views&color=0e75b6&style=flat" alt="sonalsh250" /> </p>
 
-## 🚀 The ML Guppie Journey
+## 🚀 The ML Guppy Journey
 A Software Engineer at **Ivanti**, publicly navigating the vast ocean of **Machine Learning & AI** through small, practical projects. Documenting the transition from **.NET backend development** to **ML engineering**.
 
 ---
