@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Ajay7304/Ajay7304/master/banner-git.png)](https://rishavchanda.io)
+[![MasterHead](https://github.com/sonalsh250/sonalsh250/blob/main/image_9031e31a~2.png)](https://rishavchanda.io)
 <!-- <h1 align="center">Hi 👋, I'm Sonal Kumari</h1>
 <h3 align="center">A passionate website developer from India</h3> -->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif">
